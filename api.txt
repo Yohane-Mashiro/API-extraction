@@ -1,0 +1,22 @@
+JavaScript文件API提取结果
+==================================================
+
+文件: example.js
+------------------------------
+1. https://jsonplaceholder.typicode.com/posts/1
+2. /api/dashboard
+3. /api/v1/user/profile
+4. /api/products
+5. https://api.example.com/v1/data
+6. /api/login
+7. ws://localhost:8080/websocket
+8. /rest/v2/users
+9. https://api.github.com/users
+10. /service/notifications
+11. /api/users
+12. GET /api/products
+13. /api/orders
+
+小计: 13 个API
+
+总计: 13 个API
