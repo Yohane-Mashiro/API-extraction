@@ -1,0 +1,5 @@
+# Test targets for Seeyon WPS vulnerability detection
+# Use only with proper authorization
+127.0.0.1
+httpbin.org:80
+example.com:80
